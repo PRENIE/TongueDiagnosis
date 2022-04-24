@@ -31,11 +31,11 @@
 - 測試集顯示結果<br>
 ![image](https://user-images.githubusercontent.com/51390711/164978738-02e94130-fa6e-481e-95d4-ceec6f9c926e.png#pic_right)
 - 混淆矩陣顯示結果<br>
-![da91b646-f3f5-44bf-9b61-f36c894df719](https://user-images.githubusercontent.com/51390711/164978848-fc90ea4c-768c-4c22-a390-b8a8f71b14e6.png#pic_right)
+![image](https://user-images.githubusercontent.com/51390711/164979348-5fa5f191-d4b0-4748-83f8-d0eaf16d0eb0.png)
+
 ### APP 呈現結果
 
-![image](https://user-images.githubusercontent.com/51390711/164978937-dd276fc9-e1cd-4d34-8948-d005bc78977e.png#pic_right)
+![image](https://user-images.githubusercontent.com/51390711/164979306-e148907e-1405-48df-860b-fab04c169f5d.png)
 
-![image](https://user-images.githubusercontent.com/51390711/164978949-4e7d6c38-1e98-4f00-8c52-2b72a866107d.png#pic_right)
 
 
